@@ -33,7 +33,7 @@
     "contributors": "npx contributor-faces -e \"(*-bot|*\\[bot\\]|*-tomster|homu|bors)\""
   },
   "dependencies": {
-    "ember-changeset": "github:betocantu93/ember-changeset#spike-fix-prop-notification",
+    "ember-changeset": "github:betocantu93/ember-changeset#prop-notification-with-safe-get",
     "ember-cli-babel": "^7.11.1",
     "ember-cli-htmlbars": "^4.0.5",
     "ember-get-config": "^0.2.4",
